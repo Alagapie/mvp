@@ -1,6 +1,5 @@
 Flask
 PyPDF2
-json
 Pillow
 uuid
 zipfile
