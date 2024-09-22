@@ -1,0 +1,12 @@
+Flask
+base64
+io
+PyPDF2
+json
+os
+Pillow
+uuid
+zipfile
+tempfile
+ultralytics
+openpyxl
