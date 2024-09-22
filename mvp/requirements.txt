@@ -1,8 +1,5 @@
 Flask
 PyPDF2
 Pillow
-uuid
-zipfile
-tempfile
 ultralytics
 openpyxl
