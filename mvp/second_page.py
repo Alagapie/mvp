@@ -14,7 +14,7 @@ from openpyxl import Workbook
 app = Flask(__name__)
 
 # Load YOLO model
-model = YOLO('best.pt')
+model = YOLO('v10.pt')
 
 # Store annotations and annotation images in memory
 annotations = {}
